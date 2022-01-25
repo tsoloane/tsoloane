@@ -9,14 +9,14 @@ So, that guy on your left is me.  I am a software developer, mainly focussed on 
 
 ---
 ## Technology
-###Preferred Stack
+### Preferred Stack
 ![General badge](https://img.shields.io/badge/Spring&nbsp;Boot-6DB33F?style=plastic&logo=spring-boot&logoColor=white)
 ![General badge](https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white)
 ![General badge](https://img.shields.io/badge/Postgresql-4169E1?style=plastic&logo=postgresql&logoColor=white)
 ![General badge](https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white)
 ![General badge](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
 
-###Infrastructure
+### Infrastructure
 ![General badge](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 ![General badge](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 ![General badge](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)
@@ -24,7 +24,7 @@ So, that guy on your left is me.  I am a software developer, mainly focussed on 
 ![General badge](https://img.shields.io/badge/Node.JS-339933?style=plastic&logo=node.js&logoColor=white)
 ![General badge](https://img.shields.io/badge/Maven-C71A36?style=plastic&logo=apache-maven&logoColor=white)
 
-#Languages
+### Languages
 ![General badge](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![General badge](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
 ![General badge](https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=kotlin&logoColor=white)
