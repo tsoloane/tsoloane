@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there :wave:
 
 So, that guy on your left is me.  I am a software developer, mainly focussed on backend development and the surrounding infrastructure. 
 
