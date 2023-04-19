@@ -1,6 +1,6 @@
 Hi there :wave:
 
-So, that guy on your left is me.  I am a software developer, mainly focussed on backend development and the surrounding infrastructure. 
+So, that guy on your left is me.  I am a software engineer. My main focus is on backend development, with some devops based functions smattered in for good measure. 
 
 ## Social Media
 [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/tsoloane/)
